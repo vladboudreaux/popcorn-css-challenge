@@ -100,11 +100,10 @@ Main background - #D4A76A*/
   box-sizing:border-box;
   padding: 25px;
   grid-area: aboutUs;
-
 }
 
 .bodyButton {
-    background-color: #805215;
+  background-color: #805215;
   color: #e7e1d9;
   width: 100px;
   height: 100px;
